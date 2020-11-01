@@ -8,7 +8,6 @@ body {
     background-color: #d9dcd6;
 }
 
-/* Header section */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -42,7 +41,6 @@ body {
     margin-left: 25px;
 }
 
-/* Uniform styling for <a> and <p> */
 a {
     color: #ffffff;
     text-decoration: none;
@@ -52,7 +50,6 @@ p {
     font-size: 16px;
 }
 
-/* Properties for the hero image */
 .hero {
     height: 800px;
     width: 100%;
@@ -62,7 +59,6 @@ p {
     background-position: center;
 }
 
-/* Custom behavior for floating */
 .float-left {
     float: left;
     margin-right: 25px;
@@ -73,15 +69,13 @@ p {
     margin-left: 25px;
 }
 
-/* Styling for Services section */
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
-/* Styling for each Service element */
-.service { 
+.services {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -90,16 +84,15 @@ p {
     color: #ffffff;
 }
 
-.service img {
+.services img {
     max-height: 200px;
 }
 
-.service h2 {
+.services h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
 
-/* Styling for Benefit section */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -111,7 +104,6 @@ p {
     background-color: #2589bd;
 }
 
-/* Styling for each Benefit element */
 .benefit {
     margin-bottom: 32px;
     color: #ffffff;
