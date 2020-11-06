@@ -20,6 +20,7 @@ body {
     font-size: 48px;
 }
 
+/* Customized color for characters "seo" within the header title "Horiseon" */
 .header h1 .seo {
     color: #d9dcd6;
 }
@@ -50,6 +51,7 @@ p {
     font-size: 16px;
 }
 
+/* Properties for the hero image */
 .hero {
     height: 800px;
     width: 100%;
